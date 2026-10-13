@@ -1,0 +1,7 @@
+# 도커 가상 환경 내부 데이터
+prometheus_data/
+grafana_data/
+
+
+.DS_Store
+*.log
